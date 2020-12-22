@@ -4,6 +4,7 @@ The purpose of the study is to analyse the below points:
 2. Customer segmentation
 3. Cohort Analysis for customer retention
 4. Frequently purchased products
+
 Since the dataset of other countries are fairly small hence most of the analysis was restricted to  UK. 
 UK region also has data only for a time period of one year. 
 The analysis could be extended to include a classification model for the customer segmentation.
